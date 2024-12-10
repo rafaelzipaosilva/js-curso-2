@@ -1,3 +1,5 @@
+//teste
+
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
